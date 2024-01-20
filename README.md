@@ -1,5 +1,5 @@
 ## Super-Sales-Dashboard-Project
-In this Power BI project tutorial, you will learn how to import data, clean and process data, design a dashboard, use advanced charts and maps, filters, and slicers, forecast in Power BI, export the dashboard as PDF, project insights, and learn. This will be your end-to-end project in Power BI.
+In this Power BI project, you will learn how to import data, clean and process data, design a dashboard, use advanced charts and maps, filters, and slicers, forecast in Power BI, export the dashboard as PDF, project insights, and learn. This will be your end-to-end project in Power BI.
 
 ## Download data CSV files: https://drive.google.com/drive/folders/1HDkNHNslI3rgCv9LZzGtxag8JvYzss-b
 **Complete project explained on LinkedIn:** https://www.linkedin.com/posts/vijayashokkarlawad_kpis-insights-reports-activity-7142363121687420929-GUyI?utm_source=share&utm_medium=member_desktop
